@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-07T00:33:08.267237",
+  "last_updated": "2026-09-07T11:19:16.556591",
   "sent_items": {
     "482fdf4e3a0eb7bf": {
       "date": "2026-08-08",
@@ -4890,6 +4890,146 @@
     "ccf10a9ea33b3491": {
       "date": "2026-09-07",
       "title": "OpenWhispr / openwhispr",
+      "source": "github"
+    },
+    "b8bf8c916bba9d3e": {
+      "date": "2026-09-07",
+      "title": "Keep Our Servers Running",
+      "source": "hackernews"
+    },
+    "3e492c2d9ab96d25": {
+      "date": "2026-09-07",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "source": "hackernews"
+    },
+    "3044f01b2b802cdd": {
+      "date": "2026-09-07",
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "source": "hackernews"
+    },
+    "a458e1d674ee72c9": {
+      "date": "2026-09-07",
+      "title": "Programming is Art",
+      "source": "hackernews"
+    },
+    "61ea7ce4cda10439": {
+      "date": "2026-09-07",
+      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "source": "hackernews"
+    },
+    "5c9b6aebfc9df98d": {
+      "date": "2026-09-07",
+      "title": "Live map of public transport in Belgium",
+      "source": "hackernews"
+    },
+    "61cab357a617df96": {
+      "date": "2026-09-07",
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "source": "hackernews"
+    },
+    "81b5627c58e8ff51": {
+      "date": "2026-09-07",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "source": "hackernews"
+    },
+    "e2e22fd2ad27e346": {
+      "date": "2026-09-07",
+      "title": "Impedance Matching",
+      "source": "hackernews"
+    },
+    "5d645167132c95a7": {
+      "date": "2026-09-07",
+      "title": "Tucky",
+      "source": "producthunt"
+    },
+    "68d05165a213dce9": {
+      "date": "2026-09-07",
+      "title": "Airuncode",
+      "source": "producthunt"
+    },
+    "b9131afb81bf9b26": {
+      "date": "2026-09-07",
+      "title": "Remind",
+      "source": "producthunt"
+    },
+    "1c67076c2568fcb5": {
+      "date": "2026-09-07",
+      "title": "Scriptly",
+      "source": "producthunt"
+    },
+    "a36c40789e28544d": {
+      "date": "2026-09-07",
+      "title": "Clipnote",
+      "source": "producthunt"
+    },
+    "17f71c7f049f1854": {
+      "date": "2026-09-07",
+      "title": "Assist",
+      "source": "producthunt"
+    },
+    "eb4e2edbfbe6e090": {
+      "date": "2026-09-07",
+      "title": "La Liga's Web Accessibility Table: How Do Clubs Actually Score?",
+      "source": "devto"
+    },
+    "f2789308c90a8fb6": {
+      "date": "2026-09-07",
+      "title": "The receipt should come from the person who received it",
+      "source": "devto"
+    },
+    "19fd19a3de671f14": {
+      "date": "2026-09-07",
+      "title": "ReachAloud: I built a multilingual voice tool that reads emergency alerts aloud for people who can't",
+      "source": "devto"
+    },
+    "41042573837af264": {
+      "date": "2026-09-07",
+      "title": "The impersonator's product is the gap between meaning and spelling, so we measured both in Snowflake",
+      "source": "devto"
+    },
+    "1c708e2373cec766": {
+      "date": "2026-09-07",
+      "title": "heygen-com / hyperframes",
+      "source": "github"
+    },
+    "33054ecb8bf0f855": {
+      "date": "2026-09-07",
+      "title": "microsoft / markitdown",
+      "source": "github"
+    },
+    "1bcf0237559db521": {
+      "date": "2026-09-07",
+      "title": "mksglu / context-mode",
+      "source": "github"
+    },
+    "1fbaa3734f80967a": {
+      "date": "2026-09-07",
+      "title": "jo-inc / camofox-browser",
+      "source": "github"
+    },
+    "24c6bd1d49373135": {
+      "date": "2026-09-07",
+      "title": "MoonTechLab / LunaTV",
+      "source": "github"
+    },
+    "b78843cbbd770d80": {
+      "date": "2026-09-07",
+      "title": "The-Swarm-Corporation / AutoHedge",
+      "source": "github"
+    },
+    "8715d70f7c6f5657": {
+      "date": "2026-09-07",
+      "title": "bytedance / deer-flow",
+      "source": "github"
+    },
+    "3e5bc6114122e8e4": {
+      "date": "2026-09-07",
+      "title": "lightpanda-io / browser",
+      "source": "github"
+    },
+    "f3ea32c160be052c": {
+      "date": "2026-09-07",
+      "title": "pascalorg / editor",
       "source": "github"
     }
   }
