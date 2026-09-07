@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-07T11:19:16.556591",
+  "last_updated": "2026-09-07T12:44:40.840690",
   "sent_items": {
     "482fdf4e3a0eb7bf": {
       "date": "2026-08-08",
@@ -5031,6 +5031,26 @@
       "date": "2026-09-07",
       "title": "pascalorg / editor",
       "source": "github"
+    },
+    "47d2eec82aa9b3e9": {
+      "date": "2026-09-07",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "source": "hackernews"
+    },
+    "25e986f7cfeea989": {
+      "date": "2026-09-07",
+      "title": "I Connected My Withings Body+ to Home Assistant with an ESP32",
+      "source": "hackernews"
+    },
+    "6f26541ea061bb59": {
+      "date": "2026-09-07",
+      "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
+      "source": "devto"
+    },
+    "4f88904a8c229a1d": {
+      "date": "2026-09-07",
+      "title": "Happen to Have? Answer One Before You Ask One",
+      "source": "devto"
     }
   }
 }
